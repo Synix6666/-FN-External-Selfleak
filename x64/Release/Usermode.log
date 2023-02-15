@@ -1,0 +1,11 @@
+﻿  Generating code
+D:\new (2)\new\godfather.h(15): warning C4706: assignment within conditional expression
+D:\new (2)\new\Makfn.cpp(1321): warning C4700: uninitialized local variable 'nobloom' used
+D:\new (2)\new\Makfn.cpp(1028): warning C4701: potentially uninitialized local variable 'FovVisCheck' used
+D:\new (2)\new\Makfn.cpp(1136): warning C4701: potentially uninitialized local variable 'FovVisCheck' used
+D:\new (2)\new\Makfn.cpp(1198): warning C4701: potentially uninitialized local variable 'dist' used
+  167 of 1525 functions (11.0%) were compiled, the rest were copied from previous compilation.
+    16 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Usermode.vcxproj -> D:\new (2)\new\x64\Release\makfnV4.exe

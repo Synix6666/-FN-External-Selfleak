@@ -1,0 +1,14 @@
+^D:\NEW (2)\NEW\IMGUI\IMGUI.CPP
+/c /Zi /nologo /W4 /WX- /diagnostics:column /sdl- /O2 /Ot /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++14 /permissive- /Fo"X64\RELEASE\\" /Fd"X64\RELEASE\VC143.PDB" /external:W4 /Gd /TP D:\NEW (2)\NEW\IMGUI\IMGUI.CPP
+^D:\NEW (2)\NEW\IMGUI\IMGUI_DEMO.CPP
+/c /Zi /nologo /W4 /WX- /diagnostics:column /sdl- /O2 /Ot /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++14 /permissive- /Fo"X64\RELEASE\\" /Fd"X64\RELEASE\VC143.PDB" /external:W4 /Gd /TP D:\NEW (2)\NEW\IMGUI\IMGUI_DEMO.CPP
+^D:\NEW (2)\NEW\IMGUI\IMGUI_DRAW.CPP
+/c /Zi /nologo /W4 /WX- /diagnostics:column /sdl- /O2 /Ot /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++14 /permissive- /Fo"X64\RELEASE\\" /Fd"X64\RELEASE\VC143.PDB" /external:W4 /Gd /TP D:\NEW (2)\NEW\IMGUI\IMGUI_DRAW.CPP
+^D:\NEW (2)\NEW\IMGUI\IMGUI_IMPL_DX9.CPP
+/c /Zi /nologo /W4 /WX- /diagnostics:column /sdl- /O2 /Ot /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++14 /permissive- /Fo"X64\RELEASE\\" /Fd"X64\RELEASE\VC143.PDB" /external:W4 /Gd /TP D:\NEW (2)\NEW\IMGUI\IMGUI_IMPL_DX9.CPP
+^D:\NEW (2)\NEW\IMGUI\IMGUI_IMPL_WIN32.CPP
+/c /Zi /nologo /W4 /WX- /diagnostics:column /sdl- /O2 /Ot /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++14 /permissive- /Fo"X64\RELEASE\\" /Fd"X64\RELEASE\VC143.PDB" /external:W4 /Gd /TP D:\NEW (2)\NEW\IMGUI\IMGUI_IMPL_WIN32.CPP
+^D:\NEW (2)\NEW\IMGUI\IMGUI_WIDGETS.CPP
+/c /Zi /nologo /W4 /WX- /diagnostics:column /sdl- /O2 /Ot /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++14 /permissive- /Fo"X64\RELEASE\\" /Fd"X64\RELEASE\VC143.PDB" /external:W4 /Gd /TP D:\NEW (2)\NEW\IMGUI\IMGUI_WIDGETS.CPP
+^D:\NEW (2)\NEW\MAKFN.CPP
+/c /Zi /nologo /W4 /WX- /diagnostics:column /sdl- /O2 /Ot /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /std:c++14 /permissive- /Fo"X64\RELEASE\\" /Fd"X64\RELEASE\VC143.PDB" /external:W4 /Gd /TP D:\NEW (2)\NEW\MAKFN.CPP
